@@ -1,5 +1,7 @@
 {
   "name": "devdacticSql",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
