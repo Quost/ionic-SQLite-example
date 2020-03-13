@@ -1,0 +1,4 @@
+#Fri Mar 13 17:21:23 BRT 2020
+base.0=/home/matheusquost/Documentos/NiT/Testes/devdacticSql/platforms/android/app/build/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex
